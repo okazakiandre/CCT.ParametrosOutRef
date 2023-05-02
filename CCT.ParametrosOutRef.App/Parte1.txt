@@ -1,0 +1,9 @@
+CCT - Parâmetros out: usar ou não usar?
+=========================================
+
+- Como esse conhecimento te ajuda?
+  - aprender para quê serve um parâmetro out
+  - entender quando usar
+  - ver como o teste mostra que o design está ruim
+
+- Mostrar código

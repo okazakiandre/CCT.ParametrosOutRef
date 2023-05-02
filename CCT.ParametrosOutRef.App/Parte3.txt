@@ -1,0 +1,27 @@
+CCT - Parâmetros out: usar ou não usar?
+=========================================
+
+- Como esse conhecimento te ajuda?
+  - aprender para quê serve um parâmetro out
+  - entender quando usar
+  - ver como o teste mostra que o design está ruim
+
+- Mostrar código
+
+- Por que é um problema?
+  - o método faz coisas demais
+  - o out serve exatamente para isso!
+  - mostrar testes
+
+- Como resolver
+  - evite parâmetros out
+    - normalmente usamos por comodidade, e não por necessidade
+    - o mesmo acontece com parâmetros ref
+    - se está em dúvida, não use
+  - separe as responsabilidades
+    - cada regra no seu lugar
+    - deve ser coeso (fazer sentido)
+    - mostrar código
+  - quando usar?
+    - o recurso existe para usos específicos
+    - try/parse
